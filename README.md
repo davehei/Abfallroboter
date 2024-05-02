@@ -10,4 +10,4 @@
 # GoogleCollab SSD Tensorflow
 ## https://colab.research.google.com/drive/1itjRqW7gGZBVRS9JaGCw_TYFBMMnNSbl
 
-### ..Hyperopt / OpTuna?
+### ..Hyperopt / Optuna?
